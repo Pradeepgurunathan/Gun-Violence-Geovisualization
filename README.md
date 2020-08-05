@@ -21,6 +21,7 @@ Update the Google Maps API key in the index.html file.
 git clone <this-repo> 
 
 npm install
+
 npm start
  
 
